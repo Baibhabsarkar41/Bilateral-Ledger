@@ -2,7 +2,7 @@
 
 > A full-stack debt-tracking and UPI payment settlement app for managing shared expenses between two parties.
 
-BiLedger lets you record credit/debit transactions with another user, track outstanding balances in real time, confirm or reject incoming entries, and settle dues instantly via **Razorpay UPI payments** — all in a clean, modern web interface.
+BiLedger lets you record credit/debit transactions with another user, track outstanding balances in real time, confirm or reject incoming entries, and settle dues instantly via **Razorpay payments** — all in a clean, modern web interface.
 
 ---
 
@@ -13,7 +13,7 @@ BiLedger lets you record credit/debit transactions with another user, track outs
 - 📒 **Khata (Ledger) View** — Full paginated transaction history per partner
 - ➕ **Create Transactions** — Log a credit or debit with a description
 - ✅ **Confirm / ❌ Reject** — Counterparty must confirm before balances update
-- 💸 **Pay Now (Razorpay UPI)** — Settle outstanding dues with a single click; balance auto-resets on successful payment
+- 💸 **Pay Now (Razorpay)** — Settle outstanding dues with a single click; balance auto-resets on successful payment
 
 ---
 
