@@ -212,6 +212,6 @@ All API routes are prefixed with `/api`.
 
 ---
 
-## 📄 License
+## ⭐ If you find this useful...
 
-This project is open source. Feel free to use and adapt it.
+Give it a ⭐ on GitHub — it helps others discover the project!
