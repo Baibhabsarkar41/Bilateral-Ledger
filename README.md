@@ -14,7 +14,6 @@ BiLedger lets you record credit/debit transactions with another user, track outs
 - ➕ **Create Transactions** — Log a credit or debit with a description
 - ✅ **Confirm / ❌ Reject** — Counterparty must confirm before balances update
 - 💸 **Pay Now (Razorpay UPI)** — Settle outstanding dues with a single click; balance auto-resets on successful payment
-- 🐳 **Docker support** — One-command deployment with `docker-compose`
 
 ---
 
