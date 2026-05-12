@@ -1,6 +1,6 @@
 # 📒 BiLedger — Bilateral Ledger App
 
-> A full-stack debt-tracking and UPI payment settlement app for managing shared expenses between two parties.
+> A full-stack debt-tracking and payment settlement app for managing shared expenses between two parties.
 
 BiLedger lets you record credit/debit transactions with another user, track outstanding balances in real time, confirm or reject incoming entries, and settle dues instantly via **Razorpay payments** — all in a clean, modern web interface.
 
@@ -198,7 +198,7 @@ All API routes are prefixed with `/api`.
 2. The transaction is `PENDING` until **User B** confirms it.
 3. Once **confirmed**, the balance updates: User B owes User A ₹500.
 4. **User B** can click **Pay Now** on the dashboard → a Razorpay order is created for the exact outstanding amount.
-5. After successful UPI payment, the backend verifies the HMAC-SHA256 signature and records an auto-confirmed settlement transaction → balance resets to ₹0.
+5. After successful payment, the backend verifies the HMAC-SHA256 signature and records an auto-confirmed settlement transaction → balance resets to ₹0.
 
 ---
 
